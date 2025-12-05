@@ -1,0 +1,134 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-code-lsps",
+  "metadata": {
+    "description": "LSP plugins for Claude Code",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "Jan Kott"
+  },
+  "plugins": [
+    {
+      "name": "gopls",
+      "version": "1.0.0",
+      "source": "./gopls",
+      "description": "Go language server",
+      "category": "development",
+      "tags": ["go", "lsp"],
+      "author": {
+        "name": "Jan Kott"
+      }
+    },
+    {
+      "name": "vtsls",
+      "version": "1.0.0",
+      "source": "./vtsls",
+      "description": "TypeScript/JavaScript language server",
+      "category": "development",
+      "tags": ["typescript", "javascript", "lsp"],
+      "author": {
+        "name": "Jan Kott"
+      }
+    },
+    {
+      "name": "pyright",
+      "version": "1.0.0",
+      "source": "./pyright",
+      "description": "Python language server",
+      "category": "development",
+      "tags": ["python", "lsp"],
+      "author": {
+        "name": "Jan Kott"
+      }
+    },
+    {
+      "name": "jdtls",
+      "version": "1.0.0",
+      "source": "./jdtls",
+      "description": "Java language server",
+      "category": "development",
+      "tags": ["java", "lsp"],
+      "author": {
+        "name": "Jan Kott"
+      }
+    },
+    {
+      "name": "clangd",
+      "version": "1.0.0",
+      "source": "./clangd",
+      "description": "C/C++ language server",
+      "category": "development",
+      "tags": ["c", "cpp", "lsp"],
+      "author": {
+        "name": "Jan Kott"
+      }
+    },
+    {
+      "name": "omnisharp",
+      "version": "1.0.0",
+      "source": "./omnisharp",
+      "description": "C# language server",
+      "category": "development",
+      "tags": ["csharp", "dotnet", "lsp"],
+      "author": {
+        "name": "Jan Kott"
+      }
+    },
+    {
+      "name": "intelephense",
+      "version": "1.0.0",
+      "source": "./intelephense",
+      "description": "PHP language server",
+      "category": "development",
+      "tags": ["php", "lsp"],
+      "author": {
+        "name": "Jan Kott"
+      }
+    },
+    {
+      "name": "kotlin-language-server",
+      "version": "1.0.0",
+      "source": "./kotlin-language-server",
+      "description": "Kotlin language server",
+      "category": "development",
+      "tags": ["kotlin", "lsp"],
+      "author": {
+        "name": "Jan Kott"
+      }
+    },
+    {
+      "name": "rust-analyzer",
+      "version": "1.0.0",
+      "source": "./rust-analyzer",
+      "description": "Rust language server",
+      "category": "development",
+      "tags": ["rust", "lsp"],
+      "author": {
+        "name": "Jan Kott"
+      }
+    },
+    {
+      "name": "solargraph",
+      "version": "1.0.0",
+      "source": "./solargraph",
+      "description": "Ruby language server",
+      "category": "development",
+      "tags": ["ruby", "lsp"],
+      "author": {
+        "name": "Jan Kott"
+      }
+    },
+    {
+      "name": "vscode-html-css",
+      "version": "1.0.0",
+      "source": "./vscode-html-css",
+      "description": "HTML/CSS language server",
+      "category": "development",
+      "tags": ["html", "css", "scss", "less", "lsp"],
+      "author": {
+        "name": "Jan Kott"
+      }
+    }
+  ]
+}

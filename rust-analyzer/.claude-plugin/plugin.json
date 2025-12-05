@@ -1,0 +1,8 @@
+{
+  "name": "rust-analyzer",
+  "description": "Rust language server",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jan Kott"
+  }
+}

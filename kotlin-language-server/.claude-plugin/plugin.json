@@ -1,0 +1,8 @@
+{
+  "name": "kotlin-language-server",
+  "description": "Kotlin language server",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jan Kott"
+  }
+}

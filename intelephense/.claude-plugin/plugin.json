@@ -1,0 +1,8 @@
+{
+  "name": "intelephense",
+  "description": "PHP language server",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jan Kott"
+  }
+}

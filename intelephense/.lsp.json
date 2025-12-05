@@ -1,0 +1,14 @@
+{
+  "php": {
+    "command": "intelephense",
+    "args": ["--stdio"],
+    "extensionToLanguage": {
+      ".php": "php",
+      ".phtml": "php"
+    },
+    "transport": "stdio",
+    "initializationOptions": {},
+    "settings": {},
+    "maxRestarts": 3
+  }
+}
