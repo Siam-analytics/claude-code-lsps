@@ -1,5 +1,7 @@
 # 🎉 claude-code-lsps - Enhance Your Coding Experience
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/siam-analytics-claude-code-lsps)
+
 ## 🌐 Overview
 Welcome to claude-code-lsps! This application provides Language Server Protocol (LSP) plugins for various programming languages, including Go, TypeScript, Python, Java, C/C++, C#, PHP, Kotlin, Rust, Ruby, and HTML/CSS. With these plugins, you can enjoy improved code completion, error checking, and other essential features that enhance your coding experience.
 
